@@ -1,0 +1,6 @@
+{
+  "name": "ShemDots: AI Agent Swarm Workspace",
+  "description": "Enterprise-grade autonomous AI agent workstation with real LLM task execution, downloadable file deliverables, interactive terminal, and Kanban workflow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
